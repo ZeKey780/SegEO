@@ -1,0 +1,21 @@
+# ninja log v5
+1	33072	1733276373421868019	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan.o	501716f35c426bdb
+2	124124	1733276464438365963	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_fp16.o	ceeca30af81a131a
+2	125177	1733276465478371449	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_bf16.o	c2475e6221b78013
+2	128866	1733276469198391033	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_fp32.o	c8296105e98b52e3
+2	222416	1733276562734866338	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp16_real.o	9ce0fca3055e568b
+2	222747	1733276563070867989	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp32_real.o	47f0bc081cd390c2
+1	230750	1733276571054907127	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_bf16_real.o	2c56a96a015badc4
+2	303840	1733276644119255993	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp32_complex.o	cdc9be3612fadb6c
+1	305005	1733276645283261423	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp16_complex.o	2a643c94de6d8520
+1	310665	1733276650963287863	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_bf16_complex.o	126ec59770c94e52
+70	24096	1733628149435097026	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan.o	501716f35c426bdb
+72	90672	1733628215991454399	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_fp32.o	b7f2544c2e48884b
+72	92795	1733628218099465528	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_bf16.o	c5afa1b6874dca8
+72	93197	1733628218507467682	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_fp16.o	23e7fa840fe5fdb3
+72	158333	1733628283627806210	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp32_real.o	2d8d966e527f91b4
+71	160046	1733628285347815021	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp16_real.o	1d1c90e550715cf9
+70	167425	1733628292723852729	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_bf16_real.o	2453e3b46f879ec1
+71	227614	1733628352896156115	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp32_complex.o	9d1fa211c339ddd
+70	229338	1733628354600164601	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_bf16_complex.o	e842454b630e4747
+71	230133	1733628355416168664	/home/usr/dongzhiqi/Segmamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp16_complex.o	ab7c3aff6a1c5f7d

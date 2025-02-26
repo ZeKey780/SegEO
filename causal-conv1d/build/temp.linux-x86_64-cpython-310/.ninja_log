@@ -1,0 +1,9 @@
+# ninja log v5
+0	6974	1733276002871337352	/home/usr/dongzhiqi/Segmamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	397aa33c784e26e4
+0	17814	1733276013707426657	/home/usr/dongzhiqi/Segmamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	c5d4d43268e4c491
+0	25548	1733276021443489713	/home/usr/dongzhiqi/Segmamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	7b8161703f9f3d50
+0	49581	1733276045455681825	/home/usr/dongzhiqi/Segmamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	4a370058df3406f5
+60	6284	1733628051322568883	/home/usr/dongzhiqi/Segmamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	cbf4ecb5aaa7feef
+59	16382	1733628061410607647	/home/usr/dongzhiqi/Segmamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	a698266d01bab94d
+59	22342	1733628067374638824	/home/usr/dongzhiqi/Segmamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	7b8161703f9f3d50
+59	45920	1733628090926772485	/home/usr/dongzhiqi/Segmamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	b92571926b9b79d1
